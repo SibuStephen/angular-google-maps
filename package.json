@@ -67,7 +67,7 @@
     "webpack": "^1.9.10"
   },
   "dependencies": {
-    "angular": "1.2 - 1.4",
+    "angular": "1.6.5",
     "angular-simple-logger": ">=0.0.1",
     "lodash": "3.X"
   }
